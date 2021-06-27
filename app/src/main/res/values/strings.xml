@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zadanie asynchroniczne</string>
+
+    <string name="task_1_start"> Wystartuj zadanie 1 </string>
+    <string name="task_2_start"> Wystartuj zad. 2 </string>
+    <string name="task_2_stop"> Przerwij zad. 2 </string>
+
+    <string name="task_iterations_label"> Liczba powtorzeń : </string>
+    <string name="task_delay_label"> Pauza [ms] : </string>
+
+    <string name="task_iterations_placeholder"> 10 </string>
+    <string name="task_delay_placeholder"> 100 </string>
+
+    <string name="task_working"> Working... </string>
+    <string name="task_result_empty"> Brak wyniku </string>
+</resources>
